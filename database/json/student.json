@@ -1,0 +1,27 @@
+[
+                {    
+                "name" : "Hammad",
+                "email" : "musa@gmail.com",
+                "city": "Karhi",
+                "percentage" : 99
+                },
+    
+                {    
+                    "name" : "Faraz",
+                    "email" : "fa@gmail.com",
+                    "city": "rachi",
+                    "percentage" : 50
+                },
+                {    
+                    "name" : "Noor",
+                    "email" : "tafa@gmail.com",
+                    "city": "Karac",
+                    "percentage" : 79
+                },
+                {    
+                    "name" : "Nasir",
+                    "email" : "t@gmail.com",
+                    "city": "ac",
+                    "percentage" : 39
+                }
+]
